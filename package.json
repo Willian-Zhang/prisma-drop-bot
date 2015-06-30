@@ -1,0 +1,18 @@
+{
+  "name": "prisma-drop-bot",
+  "version": "1.0.0",
+  "description": "Show prisma drop anylize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willian",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.2",
+    "gm": "^1.18.1",
+    "keypress": "^0.2.1",
+    "prompt": "^0.2.14"
+  }
+}
