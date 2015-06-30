@@ -3,6 +3,12 @@
 Free to make PR, not responsible for any consequnce of use including accidentally or inaccidentally droping your phone.
 
 ## Installation
+Download the game
+(https://itunes.apple.com/en/app/prismadrop/id592666271)
+
+*Connect your iPhone to your Mac with cable.*
+
+Install node package
 ``` shell
 npm install
 ```
